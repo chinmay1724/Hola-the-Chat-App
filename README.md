@@ -1,5 +1,5 @@
 # Hola-the-Chat-App
-"Hola" is a dynamic and user-friendly chat application designed to facilitate seamless communication and connection among users. Developed using Java within Android Studio, and integrated with the Firebase database, "Hola" users to engage in real-time conversations.This is IT150 OBJECT ORIENTED PROGRAMMING Group Project with Vismap P ROLL NO:- 211IT083.
+"Hola" is a dynamic and user-friendly chat application designed to facilitate seamless communication and connection among users. Developed using Java within Android Studio, and integrated with the Firebase database, "Hola" users to engage in real-time conversations.This is IT150 OBJECT ORIENTED PROGRAMMING Group Project with Vismay P ROLL NO:- 211IT083.
 
 Key Features:
 
